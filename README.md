@@ -1,0 +1,11 @@
+# Bootstrap v5.2 Ödev 1 | Oyun Dükkanım
+- [www.patika.dev](www.patika.dev) eğitimleri kapsamında tasarlanmıştır.
+- [CSS Ödev 1](https://github.com/BerkayBideci/CSS-Odev-1) çalışmasının geliştirilmiş versiyonudur.
+- Navigasyon menüsü eklendi ve sabitlendi.
+- Ana sayfaya **jumbotron** eklendi.
+- Arka plan rengi de dahil olmak üzere renk paleti seçildi ve uygulandı.
+- Ürünlerimiz sayfasında **card** yapısı kullanıldı.
+- Kullanılan **card** yapısı **grid** sisteminin içine yerleştirildi.
+- Ürün **card** boyutları ayarlandı.
+- Hakkımızda sayfası **card** yapıları içerisinde tasarlandı.
+- [Bootstrap Dökümantasyonu](https://getbootstrap.com/docs/5.2/getting-started/introduction/) uyarınca farklı elementler denendi.
